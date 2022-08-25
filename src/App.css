@@ -14,6 +14,11 @@
   padding: 20px;
   text-align: center;
   margin-inline: 17% 15%;
+  background-color: #8f405b;
+}
+
+.main {
+  background-color: #8fecff;
 }
 .select {
   text-align: center;
